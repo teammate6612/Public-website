@@ -1,13 +1,19 @@
-## Welcome to GitHub Pages
+## Rick Astley is a god Amongst men
 
-You can use the [editor on GitHub](https://github.com/teammate6612/Public-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use this link to see one of his greatest achievements ever: https://www.youtube.com/watch?v=dQw4w9WgXcQ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you finished watching that video, you should now understand that his music, no matter how meme-d it is, is actually pretty great
 
-### Markdown
+### Rick Astley
+Rick Astley has aged but he still looks great, honestly comparable to Gordon Ramsey
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Past Rick:
+<img src="https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=1024" alt="Rick Astley">
 
+Modern Rick:
+<img src="https://static.billboard.com/files/2021/07/rick-astley-villa-maria-2020-billboard-1548-1627575428-compressed.jpg" alt="Rick Astley">
+
+(Actually, come to think of it, he kinda looks like Simon Cowell)
 ```markdown
 Syntax highlighted code block
 
