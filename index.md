@@ -1,6 +1,6 @@
 # Rick Astley is a god Amongst men
 
-You can use this link to see one of his greatest achievements ever: https://www.youtube.com/watch?v=dQw4w9WgXcQ 
+You can use this link to see one of his greatest achievements ever: <a href="https://www.google.com">https://www.youtube.com/watch?v=dQw4w9WgXcQ</a>
 
 If you finished watching that video, you should now understand that his music, no matter how meme-d it is, is actually pretty great
 
@@ -18,6 +18,6 @@ Here we have a comparison of Rick in his younger years and Rick today
 (Actually, come to think of it, he kinda looks like Simon Cowell)
 
 ### Here is the link to Rick's very own website
-https://www.rickastley.co.uk/
+<a href="https://www.google.com">https://www.rickastley.co.uk/</a>
 ### Here is the link to Rick's twitter
-https://twitter.com/rickastley?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+<a href="https://www.google.com">https://twitter.com/rickastley?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</a>
