@@ -21,3 +21,6 @@ Here we have a comparison of Rick in his younger years and Rick today
 <a href="https://www.rickastley.co.uk/"> Rick's website</a>
 ### Here is the link to Rick's twitter
 <a href="https://twitter.com/rickastley?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Rick's twitter</a>
+
+
+Pictures obtained from variety.com and billboard.com
